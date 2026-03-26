@@ -54,6 +54,8 @@ Some versions of the script also include:
 * body mass normalized to a baseline day (e.g. P16)
 * statistical comparisons annotated directly on plots
 
+See 'figures' folder for example output plots.
+
 ## Statistical Methods
 
 Depending on sample size and data distribution, the scripts use:
